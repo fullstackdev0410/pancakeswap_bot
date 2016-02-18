@@ -6,7 +6,7 @@ def getTokenDecimal(decimal):
                     "babbage": 1000,
                     "femtoether": 1000,
                     "mwei": 1000000,
-                    "lovelace": 1000000,
+                    "lovelace": 1000000, 
                     "picoether": 1000000,
                     "gwei": 1000000000,
                     "shannon": 1000000000,
